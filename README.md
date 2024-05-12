@@ -9,3 +9,4 @@ Um jogo simples apenas envolvendo:
 * JavaScript
 
 Um dos meus primeiro projetos pessoais para fortalecer a minha base no Front-End.
+
