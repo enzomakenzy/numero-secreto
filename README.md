@@ -1,5 +1,5 @@
 # Jogo do Número Secreto 
-Desenvolvi um jogo para tentar adivinhar um número aleatório :)
+Desenvolvi um jogo para tentar adivinhar um número aleatório. O usuário terá que adivinhar um número entre 1 a 100 no menor número de tentativas que conseguir:
 <br> <br>
 <img src="img/jogo-do-numero-secreto.jpg">
 <br> <br>
